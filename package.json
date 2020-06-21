@@ -1,0 +1,16 @@
+{
+  "name": "cypressauto",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "dependencies": {},
+  "devDependencies": {
+    "cypress": "^4.8.0",
+    "cypress-iframe": "^1.0.1"
+  },
+  "scripts": {
+    "test": "node_modules/.bin/cypress  open"
+  },
+  "author": "",
+  "license": "ISC"
+}
